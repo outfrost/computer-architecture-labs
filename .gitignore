@@ -1,0 +1,14 @@
+# Subversion
+.svn/
+
+# Compiled, assembled and/or linked files
+# out/
+# *.o
+
+# BLOBs, output dumps, etc.
+*.bin
+*.out
+*.csv
+
+# Whatever this shit is
+*.fuse_hidden*
